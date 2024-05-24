@@ -1,0 +1,90 @@
+/* div {
+    height: 200px;
+    width: 500px;
+    background-color: pink;
+
+    /* border-width: 5px;
+    border-style: solid;
+    border-color: black; */
+
+    /* border: 5px solid black; */
+
+    /* border-left-color: blue;
+    border-left-style: dashed; */
+
+    /* border-top: 5px dashed blue; */
+
+    /* border-radius: 10px;
+
+    padding-top: 10px;
+
+    margin-bottom: 5px; */
+/* }  */ 
+
+h1 {
+    /* border-width: 2px;
+    border-style: dashed;
+    border-color: green; */
+
+    border: 2px dashed green;
+
+    /* border-radius: 50%; */
+
+    /* margin: 0; */
+}
+
+button {
+    border: 2px solid black;
+    border-radius: 10px;
+
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: yellow;
+
+    /* for all 4 sides */
+    padding: 25px;
+
+    /* top & bottom | left & right */
+    padding: 10px 25px;
+
+    /* top | left & right | bottom */
+    padding: 10px 25px 10px;
+
+    /* top | right | bottom | left    *clockwise  same for margin */
+    padding: 1px 2px 3px 4px;
+
+    padding: 0 5px 0 5px;
+}
+
+/* #outer {
+    height: 300px;
+    width: 300px;
+    background-color: pink;
+    margin: 50px;
+}
+
+#inner {
+    height: 100px;
+    width: 100px;
+    background-color: cornflowerblue;
+    margin: 30%;
+} */
+
+
+#outer {
+    height: 400px;
+    width: 400px;
+    border: 2px solid black;
+    background-color: pink;
+    font-size: 10px;
+}
+
+#inner {
+    height: 100px;
+    width: 100px;
+    background-color: cornflowerblue;
+    font-size: 3em;
+    padding: 1em;
+}
+
+
